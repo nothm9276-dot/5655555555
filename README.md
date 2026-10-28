@@ -1,3 +1,3 @@
 https://Google.com
-chrome:extensions
-https://chrome:extensions
+chrome://extensions
+https://chrome://extensions
